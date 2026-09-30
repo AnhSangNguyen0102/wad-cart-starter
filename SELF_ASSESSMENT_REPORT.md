@@ -1,5 +1,7 @@
 ﻿# Bảng Đánh Giá Sơ Bộ (Self Assessment Report)
+
 # Link repository: https://github.com/AnhSangNguyen0102/wad-cart-starter.git
+
 ## 1. Bảng Điểm Tổng Kết
 
 | Tiêu chí                                      | Điểm tối đa | Điểm đạt được |
